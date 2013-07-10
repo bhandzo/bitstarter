@@ -1,1 +1,2 @@
 https://github.com/bhandzo/bitstarter, http://calm-spire-1691.herokuapp.com/
+https://github.com/bhandzo/bitstarter/blob/e087fd609bfce26cf0ec3eb4b7e38baddf19e12d/index.html
