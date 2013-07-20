@@ -17,7 +17,7 @@
 /* #Site Styles
 ================================================== */
 html{
-	background-color: #fff8d5;
+	background-color: #fffee0;
 }
 body{
 	background-color: #fff;
@@ -30,8 +30,10 @@ body{
 /* #Page Styles
 ================================================== */
 .stats{
-	background-color: #fff8d5;
+	background-color: #FFEFA1;
 	border-radius: 4px;
+	box-sizing: border-box;
+	padding:8px 12px;
 }
 .logo{
 	margin:10px auto;
